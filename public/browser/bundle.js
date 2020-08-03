@@ -2997,3 +2997,4 @@ function weightedManhattanDistance(nodeOne, nodeTwo, nodes) {
 module.exports = weightedSearchAlgorithm;
 
 },{"./astar":13}]},{},[4]);
+
